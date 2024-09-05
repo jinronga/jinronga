@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 Hi! I am Jinrong, a software development engineer.
+
+🚀 **Skills**： 
+- GOlang
+- Java
+- Python
+
+📚 **Continue Learning**:
+Operation and maintenance alarm related fields(Drone or cloud native)
+
+🌐 **Community Contributions**:
+**[@Aide-family](https://github.com/aide-family)**,**[@SkywardAI](https://github.com/SkywardAI)**,**[@Meshery](https://github.com/meshery)**
+
+
+
 
 <!--
 **jinronga/jinronga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
