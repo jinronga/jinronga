@@ -1,7 +1,7 @@
 ## 👋 Hi! I am Jinrong, a software development engineer.
 
 🚀 **Skills**： 
-- GOlang
+- Golang
 - Java
 - Python
 
