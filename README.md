@@ -29,5 +29,4 @@
 [![SkywardAI](https://img.shields.io/badge/-SkywardAI-009688?logo=ai&logoColor=white)](https://github.com/SkywardAI)  
 [![OpsRe](https://img.shields.io/badge/-OpsRe-2496ED?logo=open-source-initiative&logoColor=white)](https://github.com/opsre)
 
----
 
