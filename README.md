@@ -1,30 +1,34 @@
-## 👋 Hi! I am Jinrong, a software development engineer.
+# 👋 Hi! I'm Jinrong
+**Software Development Engineer** | 🚀 AIOT & Cloud Native Enthusiast
 
-🚀 **Skills**： 
-- Golang
-- Java
-- Python
+📫 **Connect with me**:
+[![Gmail](https://img.shields.io/badge/jinrongaguo@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](jinrongaguo@gmail.com)
 
-📚 **Continue Learning**:
-Operation and maintenance alarm related fields(AIOT or cloud native)
+---
 
-🌐 **Community Contributions**:
-**[@Aide-family](https://github.com/aide-family)**,**[@opsre](https://github.com/opsre/WatchAlert),**[@SkywardAI](https://github.com/SkywardAI)**,**[@Meshery](https://github.com/meshery)
+## 🛠 Technical Arsenal
+**Proficient**  
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
+**Learning in Progress**  
+🚨 **AIOT & Cloud Native**  
 
+---
 
+## 🌐 Open Source Footprint
+### Core Maintainer
+| Project                                            | Description | Stars                                                                                |
+|----------------------------------------------------|------------|--------------------------------------------------------------------------------------|
+| [@Moon](https://github.com/aide-family/moon)       | Moon is a monitoring and alerting platform designed for multiple domains, supporting various application scenarios including cloud native, IoT, and AI. It not only simplifies cloud native monitoring operations but also offers robust IoT and AI capabilities to meet diverse monitoring needs across different industries. With real-time data monitoring, intelligent alerts, and incident response, it addresses the monitoring requirements of various fields. | ![Stars](https://img.shields.io/github/stars/aide-family/moon?style=flat) |
+| [@WatchAlert](https://github.com/opsre/WatchAlert) | WatchAlert is a lightweight monitoring and alerting engine specifically designed for cloud-native environments, dedicated to observability and stability themes, providing comprehensive monitoring and alerting support.| ![Stars](https://img.shields.io/github/stars/opsre/WatchAlert?style=flat)            |
+| [@Meshery](https://github.com/meshery/meshery)             | Meshery is an extensible, self-service engineering plaform for the collaborative management of cloud and cloud native infrastructure.| ![Stars](https://img.shields.io/github/stars/meshery/meshery?style=flat)            |
 
-<!--
-**jinronga/jinronga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Active Contributor
+[![Meshery](https://img.shields.io/badge/-Meshery-3A3A3A?logo=meshery&logoColor=white)](https://github.com/meshery)  
+[![SkywardAI](https://img.shields.io/badge/-SkywardAI-009688?logo=ai&logoColor=white)](https://github.com/SkywardAI)  
+[![OpsRe](https://img.shields.io/badge/-OpsRe-2496ED?logo=open-source-initiative&logoColor=white)](https://github.com/opsre)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
