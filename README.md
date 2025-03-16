@@ -6,10 +6,10 @@
 - Python
 
 📚 **Continue Learning**:
-Operation and maintenance alarm related fields(Drone or cloud native)
+Operation and maintenance alarm related fields(AIOT or cloud native)
 
 🌐 **Community Contributions**:
-**[@Aide-family](https://github.com/aide-family)**,**[@SkywardAI](https://github.com/SkywardAI)**,**[@Meshery](https://github.com/meshery)**
+**[@Aide-family](https://github.com/aide-family)**,**[@opsre](https://github.com/opsre/WatchAlert),**[@SkywardAI](https://github.com/SkywardAI)**,**[@Meshery](https://github.com/meshery)**
 
 
 
